@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "boss_weiyan",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.03333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "22",
+  "curveData": {
+    "props": {
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0.9970199999937897
+        },
+        {
+          "frame": 0.016666666666666666,
+          "value": 0.9
+        },
+        {
+          "frame": 0.03333333333333333,
+          "value": 1
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2576fa6d-16b4-42ce-bd7e-982ba9c79d42",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "everyday_diamond": {
+      "ver": "1.0.3",
+      "uuid": "29300424-7358-46c0-b17b-52a27c147ff6",
+      "rawTextureUuid": "2576fa6d-16b4-42ce-bd7e-982ba9c79d42",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 53,
+      "height": 47,
+      "rawWidth": 53,
+      "rawHeight": 48,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

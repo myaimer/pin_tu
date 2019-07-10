@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>h1_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{87,162},{67,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{9,5},{67,73}}</string>
+				<key>sourceSize</key>
+				<string>{104,80}</string>
+			</dict>
+
+			<key>h1_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,162},{86,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,6},{86,74}}</string>
+				<key>sourceSize</key>
+				<string>{104,80}</string>
+			</dict>
+
+			<key>h1_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,81},{111,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{9,0},{111,80}}</string>
+				<key>sourceSize</key>
+				<string>{120,80}</string>
+			</dict>
+
+			<key>h1_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{119,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{119,80}}</string>
+				<key>sourceSize</key>
+				<string>{119,80}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{256,256}</string>
+			<key>textureFileName</key>
+			<string>h1.png</string>
+			</dict>
+		</dict>
+</plist>

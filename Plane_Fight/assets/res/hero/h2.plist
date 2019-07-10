@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>h2_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{87,404},{66,76}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{66,76}}</string>
+				<key>sourceSize</key>
+				<string>{66,76}</string>
+			</dict>
+
+			<key>h2_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,404},{86,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{86,90}}</string>
+				<key>sourceSize</key>
+				<string>{86,90}</string>
+			</dict>
+
+			<key>h2_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,303},{119,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{119,100}}</string>
+				<key>sourceSize</key>
+				<string>{119,100}</string>
+			</dict>
+
+			<key>h2_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,202},{144,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{144,100}}</string>
+				<key>sourceSize</key>
+				<string>{144,100}</string>
+			</dict>
+
+			<key>h2_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,101},{148,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{148,100}}</string>
+				<key>sourceSize</key>
+				<string>{148,100}</string>
+			</dict>
+
+			<key>h2_06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{176,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{176,100}}</string>
+				<key>sourceSize</key>
+				<string>{176,100}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{256,512}</string>
+			<key>textureFileName</key>
+			<string>h2.png</string>
+			</dict>
+		</dict>
+</plist>

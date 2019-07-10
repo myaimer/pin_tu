@@ -1,0 +1,63 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "shipMove",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.25,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "main_ship1": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -465
+            },
+            {
+              "frame": 0.25,
+              "value": 700
+            }
+          ]
+        }
+      },
+      "main_ship2": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -498
+            },
+            {
+              "frame": 0.25,
+              "value": 600
+            }
+          ]
+        }
+      },
+      "main_ship3": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -478,
+              "curve": [
+                0.5421652421652421,
+                0.0720797720797719,
+                0.6287749287749289,
+                0.2014245014245013
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": 450
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>tx5_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{151,400},{106,88}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{78,104},{106,88}}</string>
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+
+			<key>tx5_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{334,354},{132,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{64,90},{132,114}}</string>
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+
+			<key>tx5_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,366},{150,128}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{52,82},{150,128}}</string>
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+
+			<key>tx5_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,215},{166,150}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{42,64},{166,150}}</string>
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+
+			<key>tx5_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{334,183},{156,170}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{56,48},{156,170}}</string>
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+
+			<key>tx5_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{183,0},{160,182}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{56,38},{160,182}}</string>
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+
+			<key>tx5_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{167,215},{166,184}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{52,36},{166,184}}</string>
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+
+			<key>tx5_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{182,214}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{42,4},{182,214}}</string>
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{512,512}</string>
+			<key>textureFileName</key>
+			<string>blast4.png</string>
+			</dict>
+		</dict>
+</plist>

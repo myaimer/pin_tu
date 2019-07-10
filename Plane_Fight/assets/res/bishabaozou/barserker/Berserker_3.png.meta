@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "d1fdb986-4f2b-4c69-aabd-fad61e26c9b5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Berserker_3": {
+      "ver": "1.0.3",
+      "uuid": "65b4057e-6236-4cf8-ac57-75cd3a5d4918",
+      "rawTextureUuid": "d1fdb986-4f2b-4c69-aabd-fad61e26c9b5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 3,
+      "trimX": 0,
+      "trimY": 32,
+      "width": 800,
+      "height": 256,
+      "rawWidth": 800,
+      "rawHeight": 326,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

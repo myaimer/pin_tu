@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a8b35216-d621-4b9c-8b54-261cebc64abb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "DevilMayCry_3": {
+      "ver": "1.0.3",
+      "uuid": "f597ca18-9612-4f86-85d4-619735c7f7b6",
+      "rawTextureUuid": "a8b35216-d621-4b9c-8b54-261cebc64abb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 700,
+      "height": 285,
+      "rawWidth": 700,
+      "rawHeight": 285,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f003c5a6-63b1-49c8-aade-7821af1f4a51",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "enemyfort_1": {
+      "ver": "1.0.3",
+      "uuid": "6cc4905f-406a-4f88-82cb-9ae1bd7fbe6c",
+      "rawTextureUuid": "f003c5a6-63b1-49c8-aade-7821af1f4a51",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -6,
+      "trimX": 0,
+      "trimY": 12,
+      "width": 51,
+      "height": 68,
+      "rawWidth": 51,
+      "rawHeight": 80,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
